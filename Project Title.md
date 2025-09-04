@@ -20,7 +20,7 @@
    
 
 **ER DIAGRAM**  
-**![ER DIAGRAM][ER.png]**
+**![ER DIAGRAM](ER.png)**
 
 **📊 Sample Queries**
 
