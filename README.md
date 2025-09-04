@@ -17,10 +17,12 @@
    ✅ Stored procedure for salary bonus updates  
      
      
-   
 
 **ER DIAGRAM**  
 **![ER DIAGRAM](ER.png)**
+
+
+
 
 **📊 Sample Queries**
 
@@ -48,6 +50,9 @@ SELECT \* FROM salary\_log;
 
 SELECT \* FROM active\_employees;
 
+
+
+
 **🔐 Backup & Restore** 
 
 Implemented database backup and restore using \`pg\_dump\` and \`psql\`.
@@ -65,6 +70,8 @@ This generates a full SQL backup of the database.
 psql \-U postgres \-d payroll\_db\_restored \-f payroll\_backup.sql
 
 This restores the database into a new instance (payroll\_db\_restored).
+
+
 
 ## 
 
