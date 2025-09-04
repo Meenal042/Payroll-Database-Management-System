@@ -6,7 +6,7 @@
 
 3. **Tech Stack**  
    PostgreSQL  
-   DBeaver / pgAdmin
+   PgAdmin
 
 4. **Features**  
    ✅ Database schema for departments, employees, and leaves  
@@ -42,6 +42,8 @@ SELECT \* FROM salary\_log;
 
 **5\. Active Employees View**  
 SELECT \* FROM active\_employees;
+
+
 
 **🔐 Backup & Restore** 
 
