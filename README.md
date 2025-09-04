@@ -6,7 +6,7 @@
 
 3. **Tech Stack**  
    PostgreSQL  
-   DBeaver / pgAdmin
+   PgAdmin
 
 4. **Features**  
    ✅ Database schema for departments, employees, and leaves  
